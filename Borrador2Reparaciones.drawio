@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T18:59:59.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="1lh2y5BzIHOsWlFt0clU" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T19:04:23.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_mEH6sa4ixI-3ggBw_-M" version="20.2.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1718" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-13" value="Sucursal" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="510" width="250" height="280" as="geometry" />
+          <mxGeometry x="-60" y="400" width="250" height="280" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;strokeColor=#457B9D;fontColor=#1D3557;" parent="C-vyLk0tnHw3VtMMgP7b-13" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -280,7 +280,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lvBmsyOaQI6B3g02hHVx-60" value="Reparacion" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="890" y="550" width="250" height="210" as="geometry" />
+          <mxGeometry x="940" y="520" width="250" height="210" as="geometry" />
         </mxCell>
         <mxCell id="lvBmsyOaQI6B3g02hHVx-61" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;strokeColor=#457B9D;fontColor=#1D3557;" parent="lvBmsyOaQI6B3g02hHVx-60" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -429,7 +429,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lvBmsyOaQI6B3g02hHVx-86" value="Pieza" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="520" y="680" width="250" height="190" as="geometry" />
+          <mxGeometry x="580" y="610" width="250" height="190" as="geometry" />
         </mxCell>
         <mxCell id="lvBmsyOaQI6B3g02hHVx-87" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;strokeColor=#457B9D;fontColor=#1D3557;" parent="lvBmsyOaQI6B3g02hHVx-86" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -497,7 +497,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lvBmsyOaQI6B3g02hHVx-99" value="Empleado" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=18;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="200" y="390" width="250" height="280" as="geometry" />
+          <mxGeometry x="310" y="320" width="250" height="280" as="geometry" />
         </mxCell>
         <mxCell id="lvBmsyOaQI6B3g02hHVx-100" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;strokeColor=#457B9D;fontColor=#1D3557;" parent="lvBmsyOaQI6B3g02hHVx-99" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -727,7 +727,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lvBmsyOaQI6B3g02hHVx-151" value="Modelo_celular" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=22;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="130" y="700" width="250" height="180" as="geometry" />
+          <mxGeometry x="280" y="640" width="250" height="180" as="geometry" />
         </mxCell>
         <mxCell id="lvBmsyOaQI6B3g02hHVx-152" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;strokeColor=#457B9D;fontColor=#1D3557;" parent="lvBmsyOaQI6B3g02hHVx-151" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -838,13 +838,13 @@
             <mxPoint x="1330" y="90" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FClz4ZPg7XtvgqnXWoon-6" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;DISPARADORES&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;1. El status de la orden cambia a &quot;entregado&quot; cuando se registra el servicio&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;2. Se calcula el total del servicio sumando el total de los precios de la tabla Detalle_reparacion.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;3. Al generar un registro se incrementa el total de ingresos de la tabla celular.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;4. Cuando un celular tiene un total de ingresos igual o mayor a 5 se le aplica un descuento del 15%.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;5. Cuando un cliente tenga 20 celulares registrados, el tipo de cliente cambia a &quot;Mayorista&quot;.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;6. Cada que se registra un empleado se incrementa la cantidad de empleados de la tabla empleados&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Tahoma;fillColor=none;fontColor=#333333;strokeColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-190" y="860" width="320" height="130" as="geometry" />
+        <mxCell id="FClz4ZPg7XtvgqnXWoon-6" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;DISPARADORES&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;1. El status de la orden cambia a &quot;entregado&quot; cuando se registra el servicio&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;2. Se calcula el total del servicio sumando el total de los precios de la tabla Detalle_reparacion.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;3. Al generar un registro se incrementa el total de ingresos de la tabla celular.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;4. Cuando un celular tiene un total de ingresos igual o mayor a 5 se le aplica un descuento del 15%.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;5. Cuando un cliente tenga 20 celulares registrados, el tipo de cliente cambia a &quot;Mayorista&quot;.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;6. Cada que se registra un empleado se incrementa la cantidad de empleados de la tabla empleados&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Tahoma;fillColor=none;fontColor=#333333;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-10" y="840" width="620" height="130" as="geometry" />
         </mxCell>
         <mxCell id="FClz4ZPg7XtvgqnXWoon-7" value="REPARACIONES&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=35;fontColor=#000000;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FClz4ZPg7XtvgqnXWoon-8" value="&lt;p style=&quot;font-size: 10px;&quot;&gt;Integrantes:&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;Flores González Isabel Cristina&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;Solis Pérez Carmen Viridiana&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 10px;&quot;&gt;Vazquez Garcia Juan Carlos&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=35;fontColor=#000000;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="FClz4ZPg7XtvgqnXWoon-8" value="&lt;p style=&quot;font-size: 12px;&quot;&gt;Integrantes:&lt;/p&gt;&lt;p style=&quot;font-size: 12px;&quot;&gt;Flores González Isabel Cristina&lt;/p&gt;&lt;p style=&quot;font-size: 12px;&quot;&gt;Solis Pérez Carmen Viridiana&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;font-size: 12px;&quot;&gt;Vazquez Garcia Juan Carlos&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#000000;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-120" y="30" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
